@@ -115,12 +115,12 @@ Each level has **10 questions** (mix of MCQ + Written).
 
 10. **(Written)** Write a SQL query to retrieve all customers with their corresponding orders from `Customers` and `Orders`.  
    - **Answer:**
-      ```sql
-      SELECT Customers.Name, Orders.OrderId
-      FROM Customers
-      INNER JOIN Orders 
-      ON Customers.CustomerId = Orders.CustomerId;
-      ```
+   ```sql
+   SELECT Customers.Name, Orders.OrderId
+   FROM Customers
+   INNER JOIN Orders 
+   ON Customers.CustomerId = Orders.CustomerId;
+   ```
 
 ## 🔹 Level 3 – Advanced (APIs + Security + Design Patterns + Git)
 
@@ -172,9 +172,9 @@ Each level has **10 questions** (mix of MCQ + Written).
 
 10. **(Written)** Write a SQL query to get the top 5 highest salaries from an `Employees` table.  
    - **Answer:**  
-      ```sql
-      SELECT TOP 5 Salary
-      FROM Employees
-      ORDER BY Salary DESC;
-      ```
+   ```sql
+   SELECT TOP 5 Salary
+   FROM Employees
+   ORDER BY Salary DESC;
+   ```
 
