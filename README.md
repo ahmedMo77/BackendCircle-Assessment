@@ -13,11 +13,11 @@ Each level has **10 questions** (mix of MCQ + Written).
 
 ## 🔹 Level 1 – Beginner (Basic C# + Simple Database)
 
-1. **(MCQ)** What is the difference between Frontend and Backend?  
-   - a) Frontend = Database, Backend = UI  
-   - b) Frontend = Client-side, Backend = Server-side  
-   - c) Frontend = Logic, Backend = Design  
-   - **Answer:** b)  
+1. **(MCQ)** What is the main difference between Frontend and Backend in web development?  
+   - a) Frontend is responsible for storing and managing data, while Backend focuses on styling and presentation.  
+   - b) Frontend runs on the client side (what users see and interact with), while Backend runs on the server side (processing requests, handling data, and business logic).  
+   - c) Frontend handles databases, while Backend is only about animations and layouts.  
+   - **Answer:** b)
 
 2. **(MCQ)** Which keyword is used to declare a class in C#?  
    - a) object  
