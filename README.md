@@ -176,5 +176,5 @@ Each level has **10 questions** (mix of MCQ + Written).
    SELECT TOP 5 Salary
    FROM Employees
    ORDER BY Salary DESC;
-
+   ```
 
