@@ -105,10 +105,10 @@ Each level has **10 questions** (mix of MCQ + Written).
    - c) : (colon)
    - **Answer:** c)
 
-4. **(Written)** Explain the difference between Value Types and Reference Types.
+9. **(Written)** Explain the difference between Value Types and Reference Types.
    - **Answer:** Value types store data directly, reference types store memory references.
 
-2. **(MCQ)** What does the using statement in C# do?
+10. **(MCQ)** What does the using statement in C# do?
    - a) Imports libraries only
    - b) Ensures resources are disposed after use
    - c) Declares a variable
