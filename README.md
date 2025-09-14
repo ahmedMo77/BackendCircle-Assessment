@@ -63,4 +63,55 @@ Each level has **10 questions** (mix of MCQ + Written).
 10. **(Written)** Explain the role of a Database in a backend system.
     - **Answer:** Stores and organizes data, allows retrieval and modification efficiently.
 
+## 🔹 Level 2 – Intermediate (OOP + SQL Joins + Exceptions)
+
+1. **(Written)**) Explain Encapsulation in Object-Oriented Programming.
+   - **Answer:** Hiding internal details of a class and exposing only necessary parts.
+
+2. **(MCQ)** Which keyword is used to handle exceptions in C#?
+   - a) try/catch
+   - b) throw/catch
+   - c) error/handle
+   - **Answer:** a)
+
+3. **(Written)** What is the difference between an Interface and an Abstract Class in C#?
+   - **Answer:** Interface = contract with no implementation, Abstract Class = can have both abstract and concrete methods.
+
+4. **(MCQ)** Which of the following supports multiple inheritance in C#?
+   - a) Classes
+   - b) Abstract classes
+   - c) Interfaces
+   - **Answer:** c)
+
+5. **(Written)** Write a SQL query to get all customers with their orders from Customers and Orders.
+   - **Answer:**
+   ```sql
+   SELECT Customers.Name, Orders.OrderId
+   FROM Customers
+   INNER JOIN Orders ON Customers.CustomerId = Orders.CustomerId;
+
+6. **(MCQ)** Which SQL keyword is used to combine rows from two or more tables based on a related column?
+   - a) JOIN
+   - b) MERGE
+   - c) UNION
+   - **Answer:** a)
+
+7. **(Written)** What is Normalization in databases?
+   - **Answer:** Organizing data to reduce redundancy and improve consistency.
+
+8. **(MCQ)** In C#, which keyword is used to inherit from a class?
+   - a) implements
+   - b) extends
+   - c) : (colon)
+   - **Answer:** c)
+
+4. **(Written)** Explain the difference between Value Types and Reference Types.
+   - **Answer:** Value types store data directly, reference types store memory references.
+
+2. **(MCQ)** What does the using statement in C# do?
+   - a) Imports libraries only
+   - b) Ensures resources are disposed after use
+   - c) Declares a variable
+   - **Answer:** b)
+
 
