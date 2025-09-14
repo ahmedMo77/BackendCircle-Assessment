@@ -45,3 +45,34 @@ This helps us evaluate both **theoretical knowledge** and **practical problem-so
    - **Answer:**  
    ```sql
    SELECT * FROM Students;
+
+   
+7. **(MCQ)** How many Primary Keys can a table have?
+
+   - a) 1
+
+   - b) 2
+
+   - c) Unlimited
+
+   - **Answer:** a)
+
+8. **(Written)** What is the difference between DELETE and TRUNCATE?
+
+   - **Answer:** DELETE removes rows (can use WHERE), TRUNCATE removes all rows and resets identity.
+
+9. **(MCQ)** Which data type is a value type in C#?
+
+   - a) string
+
+   - b) int
+
+   - c) object
+
+   - **Answer:** b)
+
+10. **(Written)** Explain the role of a Database in a backend system.
+
+    - **Answer:** Stores and organizes data, allows retrieval and modification efficiently.
+
+
