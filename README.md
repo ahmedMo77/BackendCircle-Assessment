@@ -44,6 +44,7 @@ Each level has **10 questions** (mix of MCQ + Written).
    - **Answer:**  
    ```sql
    SELECT * FROM Students;
+   ```
 
 7. **(MCQ)** How many Primary Keys can a table have?
    - a) 1
@@ -89,6 +90,7 @@ Each level has **10 questions** (mix of MCQ + Written).
    SELECT Customers.Name, Orders.OrderId
    FROM Customers
    INNER JOIN Orders ON Customers.CustomerId = Orders.CustomerId;
+   ```
 
 6. **(MCQ)** Which SQL keyword is used to combine rows from two or more tables based on a related column?
    - a) JOIN
